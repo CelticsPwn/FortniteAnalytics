@@ -1,0 +1,1 @@
+Assault Rifle,Attack SMG,Bolt-Action Sniper Rifle,Burst Assault Rifle,Grenade Launcher,Hand Cannon,Heavy Shotgun,Hunting Rifle,Light Machine Gun,Minigun,Pistol,Pump Shotgun,Revolver,Rocket Launcher,Items\Scoped Assault Rifle,Semi-Auto Sniper Rifle,Submachine Gun,Suppressed Pistol,Tactical Shotgun
